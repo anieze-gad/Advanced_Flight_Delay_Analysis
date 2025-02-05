@@ -3,7 +3,7 @@
 This project involves advanced SQL analysis on flight delay data to extract key insights into airline performance, airport congestion, and delay patterns. Using PostgreSQL, the analysis covers data cleaning, standardization, performance optimization, and advanced queries to derive meaningful business insights.
 
 ## 📂 Dataset
-- **Source:** [Airline On-Time Performance Data]([https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](https://transtats.bts.gov/Tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r%FDb0-gvzr%FDcr4s14zn0pr%FDQn6n&QO_fu146_anzr=b0-gvzr))
+- **Source:**[Duck Duck Go](https://transtats.bts.gov/Tables.asp?QO_VQ=EFD&QO_anzr=Nv4yv0r%FDb0-gvzr%FDcr4s14zn0pr%FDQn6n&QO_fu146_anzr=b0-gvzr)
 - **Key Features:**
 - `Sales`: Revenue from sales.
 - `Category`: Product category.
