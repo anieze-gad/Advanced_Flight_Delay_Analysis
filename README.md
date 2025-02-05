@@ -17,6 +17,13 @@ This project involves advanced SQL analysis on flight delay data to extract key 
 - Ensured correct data types for date and numerical fields.
 - Indexed key columns to improve query performance.
 
+## **🔍 Analysis & Key Insights**
+### 1. Monthly Flight Volume
+**Query:** Extracted the total number of flights per month using the date_trunc() function.
+
+**Key Finding:** The analysis reveals seasonal fluctuations in flight volume, with peaks in March, July, and May 2024, likely due to increased travel demand. A general upward trend is observed from November 2023 to October 2024, with February showing a dip, possibly due to seasonal factors. These insights help in capacity planning, demand forecasting, and optimizing airline operations. 🚀
+
+
   
 
 
