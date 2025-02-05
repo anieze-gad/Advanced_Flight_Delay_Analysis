@@ -45,6 +45,12 @@ This project involves advanced SQL analysis on flight delay data to extract key 
 **Key Finding:**
 Flights peak on **Thursday (1.05M)** and dip on **Saturday (906K)**. **Friday** and **Sunday** have the longest departure delays **(14 min)**, while **Tuesday** and **Wednesday** are the most punctual **(10 min)**. Arrival delays follow a similar trend, with **Sunday highest (9 min) and midweek lowest (4 min)**. Weekdays show better on-time performance than weekends.
 
+### 6.Top Delayed Airlines
+**Query:** Ranked airlines by their average departure delay.
+
+**Key Finding:** Airline **AA** has the highest average departure delay **(19 min)**, followed by **F9 (19 min)** and **B6 (17 min)**. The least delayed airline is **YX (3 min)**. Significant variation exists in airline punctuality, with top carriers experiencing delays over 6x longer than the most punctual ones.
+
+
 
 
 
