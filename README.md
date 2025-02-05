@@ -39,6 +39,12 @@ This project involves advanced SQL analysis on flight delay data to extract key 
 
 **Key Finding:**  **1,360,180** flights **(19%)** experienced delays exceeding **15 minutes**, indicating a notable impact on overall punctuality and potential areas for operational improvement.
 
+### 5.Weekly Flight Performance
+**Query:**   Created a materialized view aggregating weekly flight performance, including total flights, average departure delay, and average arrival delay per airline.
+
+**Key Finding:**
+Flights peak on **Thursday (1.05M)** and dip on **Saturday (906K)**. **Friday** and **Sunday** have the longest departure delays **(14 min)**, while **Tuesday** and **Wednesday** are the most punctual **(10 min)**. Arrival delays follow a similar trend, with **Sunday highest (9 min) and midweek lowest (4 min)**. Weekdays show better on-time performance than weekends.
+
 
 
 
