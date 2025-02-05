@@ -50,6 +50,12 @@ Flights peak on **Thursday (1.05M)** and dip on **Saturday (906K)**. **Friday** 
 
 **Key Finding:** Airline **AA** has the highest average departure delay **(19 min)**, followed by **F9 (19 min)** and **B6 (17 min)**. The least delayed airline is **YX (3 min)**. Significant variation exists in airline punctuality, with top carriers experiencing delays over 6x longer than the most punctual ones.
 
+### 7.  Airline-Specific Delay Percentage
+**Query:** Implemented a stored function to dynamically calculate delay percentages for any given airline.
+
+**Key Finding:**
+A stored function allows users to calculate the percentage of flights delayed by more than 15 minutes for any airline. For example, Airline **AA** had **24%** of **981,627** flights delayed. Users can input other airline codes to retrieve their specific delay statistics.
+
 
 
 
