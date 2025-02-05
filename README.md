@@ -23,6 +23,25 @@ This project involves advanced SQL analysis on flight delay data to extract key 
 
 **Key Finding:** The analysis reveals seasonal fluctuations in flight volume, with peaks in March, July, and May 2024, likely due to increased travel demand. A general upward trend is observed from November 2023 to October 2024, with February showing a dip, possibly due to seasonal factors. These insights help in capacity planning, demand forecasting, and optimizing airline operations. 🚀
 
+### 2. Average Departure Delay by Airline
+**Query:** Calculated the average departure delay for each airline.
+
+**Key Finding:**
+**AA** and **F9** have the highest average departure delays **(~19 mins)**, while **YX** has the lowest **(~3 mins)**. Low-cost carriers tend to experience higher delays, while legacy airlines show moderate performance. These insights help benchmark airline efficiency and improve scheduling strategies. 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
