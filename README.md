@@ -34,6 +34,13 @@ This project involves advanced SQL analysis on flight delay data to extract key 
 
 **Key Finding:** Origin airport ID **10397** experiences the highest departure volume with **340,381** flights, while ID **14098** has the lowest with just **2** departures, highlighting significant variations in airport traffic.
 
+### 4. Percentage of Flights Delayed More Than 15 Minutes
+**Query:**  Counted the total number of flights delayed more than 15 minutes and calculated their percentage.
+
+**Key Finding:**  **1,360,180** flights **(19%)** experienced delays exceeding **15 minutes**, indicating a notable impact on overall punctuality and potential areas for operational improvement.
+
+
+
 
 
 
