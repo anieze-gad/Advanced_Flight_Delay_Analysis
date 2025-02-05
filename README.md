@@ -29,7 +29,10 @@ This project involves advanced SQL analysis on flight delay data to extract key 
 **Key Finding:**
 **AA** and **F9** have the highest average departure delays **(~19 mins)**, while **YX** has the lowest **(~3 mins)**. Low-cost carriers tend to experience higher delays, while legacy airlines show moderate performance. These insights help benchmark airline efficiency and improve scheduling strategies. 🚀
 
+### 3. Busiest Airports(Top 10 by Departure)
+**Query:** Identified the airports with the highest number of departures.
 
+**Key Finding:** Origin airport ID **10397** experiences the highest departure volume with **340,381** flights, while ID **14098** has the lowest with just **2** departures, highlighting significant variations in airport traffic.
 
 
 
