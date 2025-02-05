@@ -69,10 +69,14 @@ A stored function allows users to calculate the percentage of flights delayed by
 **3. Use the Stored Function:** Call get_airline_delay_percentage('<Airline_Code>') to get an airline's delay statistics.
 **4 Refresh Data:** Execute CALL refresh_materialized_views(); to update insights after new data is added.
 
-### **Author & Contact**
 
-Developed by Anieze Ifesinachi Gad]📧 Email: [aniezegad7@gmail.com]🔗 LinkedIn: linkedin.com/in/yourprofile🔗 GitHub: github.com/yourusername
+# 👨‍💻 Author
+### **Anieze Ifesinachi Gad**
+📧 Email: aniezegad7@gmail.com 
+🔗 GitHub: [anieze-gad](https://github.com/anieze-gad)
 
+# 📜 License
+This project is licensed under the MIT License.
 
 
 
