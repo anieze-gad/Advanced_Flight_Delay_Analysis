@@ -56,6 +56,23 @@ Flights peak on **Thursday (1.05M)** and dip on **Saturday (906K)**. **Friday** 
 **Key Finding:**
 A stored function allows users to calculate the percentage of flights delayed by more than 15 minutes for any airline. For example, Airline **AA** had **24%** of **981,627** flights delayed. Users can input other airline codes to retrieve their specific delay statistics.
 
+## **Technologies Used**
+
+- **Database:** PostgreSQL
+- **Query Language:** SQL (PL/pgSQL)
+- **Optimization Techniques:** Indexing, materialized views, stored functions & procedures
+
+## **How to Use This Analysis**
+
+**1. Run the SQL Script:** Execute the full script on a PostgreSQL database containing flight delay data.
+**2. Utilize Materialized Views:** Query weekly_flight_performance and top_delayed_airlines for precomputed insights.
+**3. Use the Stored Function:** Call get_airline_delay_percentage('<Airline_Code>') to get an airline's delay statistics.
+**4 Refresh Data:** Execute CALL refresh_materialized_views(); to update insights after new data is added.
+
+### **Author & Contact**
+
+Developed by Anieze Ifesinachi Gad]📧 Email: [aniezegad7@gmail.com]🔗 LinkedIn: linkedin.com/in/yourprofile🔗 GitHub: github.com/yourusername
+
 
 
 
